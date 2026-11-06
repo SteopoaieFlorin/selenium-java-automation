@@ -22,3 +22,20 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+src/resource/chromedriver.exe
+
+# Maven
+target/
+
+# Eclipse local configuration
+.classpath
+.project
+.settings/
+
+# Selenium drivers
+chromedriver.exe
+geckodriver.exe
+
+# Operating system
+.DS_Store
+Thumbs.db
